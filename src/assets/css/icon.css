@@ -1,0 +1,11 @@
+.icon-wrapper {
+    box-shadow: 3px -1px 10px black;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 20px auto;
+}
+
+.icon {
+    width: 120px;
+    height: 120px;
+}
